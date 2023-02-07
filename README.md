@@ -7,5 +7,3 @@ My name is Harvy Jake Serenio 20 years old. Lives in Loboc, Bohol.
 printf("Hello World!");
 ## How to Install
 * Step 1:Download the zip file or use git clone
-* commit 1
-* commit 2
